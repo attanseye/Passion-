@@ -1,0 +1,6 @@
+{
+  "name": "Passionate Beauty Store",
+  "description": "Premium beauty and salon store in Nigeria, designed by iBlaq.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

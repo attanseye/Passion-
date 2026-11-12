@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 540 140" fill="none" width="100%" height="100%">
+  <!-- Left Icon: Woman silhouette with flowing S-curve hair -->
+  <g transform="translate(15, 10)">
+    <!-- Elegant stylized woman profile & hair -->
+    <path d="M 68 18 C 55 18 42 26 38 38 C 35 47 37 54 36 60 C 35 64 30 67 31 71 C 32 75 35 76 35 80 C 35 85 31 87 34 91 C 36 94 40 94 44 94 C 38 98 33 103 33 110 C 33 118 41 123 49 123 C 58 123 66 116 68 107 C 70 98 64 91 58 87 C 50 82 45 74 46 64 C 47 51 56 42 67 38 C 76 35 80 27 75 21 C 73 19 70 18 68 18 Z" fill="#111827"/>
+    <path d="M 52 14 C 40 18 32 28 30 40 C 28 50 33 58 31 67 C 29 74 23 79 24 86 C 25 93 30 96 29 104 C 27 114 36 122 46 122 C 34 121 24 112 24 99 C 24 88 33 82 35 73 C 37 63 31 56 33 46 C 36 33 44 21 57 16 C 59 15 55 13 52 14 Z" fill="#111827"/>
+    <!-- Face profile curve -->
+    <path d="M 40 45 C 38 48 34 52 35 55 C 36 57 39 58 38 61 C 37 63 33 64 34 67 C 35 70 39 71 40 73 C 41 76 39 80 43 82 C 45 78 44 72 42 68 C 44 65 44 60 41 57 C 42 53 43 49 40 45 Z" fill="#111827"/>
+    <path d="M 62 25 C 75 33 78 48 76 63 C 74 77 65 89 57 100 C 51 108 47 118 55 124 C 43 122 41 108 47 99 C 55 87 66 77 67 62 C 69 49 65 35 56 26 C 54 24 60 23 62 25 Z" fill="#111827"/>
+  </g>
+
+  <!-- Vertical Divider Line -->
+  <line x1="118" y1="20" x2="118" y2="120" stroke="#111827" stroke-width="2.5" stroke-linecap="round" />
+
+  <!-- Typography -->
+  <!-- "PASSIONATE" -->
+  <text x="140" y="68" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="44" font-weight="900" fill="#FA2568" letter-spacing="0.04em">PASSIONATE</text>
+  
+  <!-- "BEAUTY STORES" -->
+  <text x="142" y="104" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="21" font-weight="600" fill="#111827" letter-spacing="0.28em">BEAUTY STORES</text>
+</svg>
